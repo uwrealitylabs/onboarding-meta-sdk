@@ -51,5 +51,5 @@
         "temp/": true,
         "Temp/": true
     },
-    "dotnet.defaultSolution": "A Dreamer's Guide to AR-VR Starter.sln"
+    "dotnet.defaultSolution": "onboarding-meta-sdk.sln"
 }
